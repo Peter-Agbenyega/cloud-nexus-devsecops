@@ -1,52 +1,53 @@
-# Cloud Nexus Hub LLC — Capability Statement
+# Cloud Nexus Hub LLC  
+## DevSecOps & Secure Cloud Engineering
 
-## Company Overview
-Cloud Nexus Hub LLC provides secure cloud engineering, DevSecOps implementation, and automation services for teams that need reliability, security, and speed.
+### Who We Are
+Cloud Nexus Hub LLC helps organizations design, build, and operate secure, scalable cloud systems using DevSecOps best practices. We specialize in infrastructure standardization, CI/CD automation, and cloud security by design.
 
-We help organizations build and operate cloud systems that are secure by design and easy to maintain.
-
----
-
-## Core Capabilities
-- DevSecOps pipeline design and implementation
-- Infrastructure as Code (Terraform)
-- Cloud security hardening and audits
-- CI/CD automation (GitHub Actions)
-- Policy and guardrails for cloud environments
+We work with teams that want **clarity, consistency, and confidence** in their cloud environments.
 
 ---
 
-## Primary Offering
-**DevSecOps Starter Setup**
-
-A standardized, secure foundation for cloud infrastructure and CI/CD pipelines, designed to reduce risk and improve delivery consistency.
-
----
-
-## Ideal Clients
-- Startups preparing to scale
-- Engineering teams with growing cloud complexity
-- Companies addressing security or audit concerns
-- CTOs seeking standardization and best practices
+### Core Capabilities
+- DevSecOps pipeline design & implementation  
+- Infrastructure as Code (Terraform)  
+- Secure cloud architecture (AWS)  
+- CI/CD automation (GitHub Actions)  
+- Cloud security hardening & audit readiness  
+- Policy guardrails and operational standards  
 
 ---
 
-## Delivery Approach
-- Fixed-scope engagements
-- Clear documentation and handoff
-- Security-first implementation
-- Repeatable and auditable workflows
+### Primary Offering  
+## DevSecOps Starter Setup
+
+A fixed-scope engagement that delivers a standardized, secure foundation for cloud infrastructure and CI/CD pipelines.
+
+**What Clients Get**
+- Secure cloud architecture baseline  
+- Terraform-based infrastructure modules  
+- CI/CD pipeline templates  
+- Security best practices embedded by default  
+- Clear documentation and handoff  
 
 ---
 
-## Differentiators
-- Security embedded from day one
-- Clear, documented processes
-- Reusable templates and automation
-- Practical, production-focused delivery
+### Ideal Clients
+- Startups preparing to scale  
+- Engineering teams facing growing cloud complexity  
+- Companies with security or audit concerns  
+- CTOs seeking standardization and best practices  
 
 ---
 
-## Contact
-Cloud Nexus Hub LLC  
-DevSecOps & Cloud Engineering
+### Delivery Approach
+- Fixed-scope, outcome-driven engagements  
+- Security-first implementation  
+- Clear documentation and handoff  
+- Repeatable, auditable workflows  
+
+---
+
+### Ownership
+**Cloud Nexus Hub LLC**  
+Focus: Secure-by-design cloud systems, automation, and repeatable delivery.
