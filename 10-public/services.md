@@ -1,73 +1,50 @@
-# Cloud Nexus Hub — Core Services
+# Services — Cloud Nexus Hub LLC
 
-## 1. DevSecOps Starter Setup
+## What We Do
+We help teams implement secure, reliable cloud infrastructure using DevSecOps best practices — without overengineering or unnecessary complexity.
 
-### Description
-A standardized DevSecOps foundation for teams that want secure, repeatable, and auditable cloud deployments.
-
-This service establishes a secure baseline for infrastructure and CI/CD using industry best practices.
+Our services focus on **clarity, security, and repeatability**.
 
 ---
 
-### What Clients Get
-- Secure CI/CD pipeline baseline
-- Infrastructure as Code structure
-- Automated security checks
-- Clear documentation and handoff
-- Recommendations for next steps
+## Core Service Offering
+
+### DevSecOps Starter Setup
+A fixed-scope engagement designed to give teams a secure and scalable cloud foundation.
+
+#### Included
+- Secure AWS architecture baseline  
+- Infrastructure as Code using Terraform  
+- CI/CD pipeline setup with GitHub Actions  
+- Security best practices embedded by default  
+- Clear documentation and handoff  
+
+#### Outcomes
+- Faster, safer deployments  
+- Reduced configuration drift  
+- Improved security posture  
+- Repeatable and auditable infrastructure  
 
 ---
 
-### Ideal For
-- Startups preparing for scale
-- Teams with insecure pipelines
-- Companies preparing for audits
-- CTOs who want standardization
+## How Engagements Work
+- Fixed scope (no surprise billing)
+- Clear deliverables
+- Security-first implementation
+- Clean handoff with documentation
 
 ---
 
-### Delivery Time
-5–10 business days
+## Who This Is For
+- Startups preparing to scale
+- Teams lacking standardized infrastructure
+- Organizations addressing security or audit readiness
+- CTOs who want best practices implemented correctly
 
 ---
 
-### Engagement Type
-Fixed-scope implementation
+## Next Step
+Reach out to discuss scope and timelines.
 
----
-
-### Notes
-This service uses the Cloud Nexus Hub DevSecOps Starter template as its foundation.
-
-
----
-
-## Pricing Structure (Internal)
-
-Pricing for the DevSecOps Starter Setup is based on:
-
-### Scope Factors
-- Number of repositories
-- Cloud environment complexity
-- CI/CD maturity level
-- Security requirements
-
----
-
-### Pricing Model
-- Fixed-scope baseline engagement
-- Optional add-ons billed separately
-- Follow-on work offered as monthly advisory or project-based
-
----
-
-### Add-On Examples
-- Additional cloud environments
-- Advanced security scanning
-- Compliance alignment (CIS, NIST)
-- Ongoing pipeline support
-
----
-
-### Positioning
-This service is positioned as a foundational investment that reduces long-term risk, rework, and security incidents.
+**Cloud Nexus Hub LLC**  
+Secure-by-design cloud systems. Delivered with discipline.
