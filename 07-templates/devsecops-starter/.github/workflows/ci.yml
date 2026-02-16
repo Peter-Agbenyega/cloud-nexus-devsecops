@@ -1,0 +1,50 @@
+name: devsecops-starter-ci
+
+on:
+  pull_request:
+    paths:
+      - "07-templates/devsecops-starter/**"
+  push:
+    branches: ["main"]
+    paths:
+      - "07-templates/devsecops-starter/**"
+
+permissions:
+  contents: read
+
+jobs:
+  terraform:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 07-templates/devsecops-starter
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
+
+      - name: Terraform fmt check
+        run: terraform -chdir=infra fmt -check -recursive
+
+      - name: Terraform init (dev, no backend)
+        run: terraform -chdir=infra/environments/dev init -backend=false
+
+      - name: Terraform validate (dev)
+        run: terraform -chdir=infra/environments/dev validate
+
+      - name: Setup TFLint
+        uses: terraform-linters/setup-tflint@v4
+
+      - name: TFLint init
+        run: tflint --init
+
+      - name: TFLint
+        run: tflint --recursive infra
+
+      - name: tfsec
+        uses: aquasecurity/tfsec-action@v1.0.3
+        with:
+          working_directory: 07-templates/devsecops-starter/infra
