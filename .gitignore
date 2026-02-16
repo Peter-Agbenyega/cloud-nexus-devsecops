@@ -19,6 +19,8 @@ venv/
 *.tfstate.*
 crash.log
 .terraform.lock.hcl
+*.tfvars
+!*.tfvars.example
 
 # Secrets
 .env
