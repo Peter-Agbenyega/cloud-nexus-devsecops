@@ -13,17 +13,17 @@ Our services focus on **clarity, security, and repeatability**.
 A fixed-scope engagement designed to give teams a secure and scalable cloud foundation.
 
 #### Included
-- Secure AWS architecture baseline  
-- Infrastructure as Code using Terraform  
-- CI/CD pipeline setup with GitHub Actions  
-- Security best practices embedded by default  
-- Clear documentation and handoff  
+- Secure AWS architecture baseline
+- Infrastructure as Code using Terraform
+- CI/CD pipeline setup with GitHub Actions
+- Security best practices embedded by default
+- Clear documentation and handoff
 
 #### Outcomes
-- Faster, safer deployments  
-- Reduced configuration drift  
-- Improved security posture  
-- Repeatable and auditable infrastructure  
+- Faster, safer deployments
+- Reduced configuration drift
+- Improved security posture
+- Repeatable and auditable infrastructure
 
 ---
 
@@ -46,5 +46,5 @@ A fixed-scope engagement designed to give teams a secure and scalable cloud foun
 ## Next Step
 Reach out to discuss scope and timelines.
 
-**Cloud Nexus Hub LLC**  
+**Cloud Nexus Hub LLC**
 Secure-by-design cloud systems. Delivered with discipline.

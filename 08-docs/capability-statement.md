@@ -48,5 +48,5 @@ A standardized, secure foundation for cloud infrastructure and CI/CD pipelines, 
 ---
 
 ## Contact
-Cloud Nexus Hub LLC  
+Cloud Nexus Hub LLC
 DevSecOps & Cloud Engineering

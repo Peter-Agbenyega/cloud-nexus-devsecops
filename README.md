@@ -9,10 +9,10 @@ It is structured for **real client work**, not demos.
 ## What This Repository Is
 A reusable, production-oriented DevSecOps workspace that enables:
 
-- Secure cloud architecture design  
-- Infrastructure as Code (Terraform)  
-- CI/CD automation with security embedded  
-- Clear documentation and repeatable delivery  
+- Secure cloud architecture design
+- Infrastructure as Code (Terraform)
+- CI/CD automation with security embedded
+- Clear documentation and repeatable delivery
 
 This repo reflects how professional DevSecOps engagements are executed in real environments.
 
@@ -56,4 +56,3 @@ The architecture demonstrates:
 
 The full architecture diagram is available in:
 `docs/architecture/driftlock-aws-architecture.drawio`
-

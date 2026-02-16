@@ -8,4 +8,3 @@ module "vpc" {
   private_subnet_cidrs = var.private_subnet_cidrs
   tags                 = var.tags
 }
-
